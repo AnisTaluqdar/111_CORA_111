@@ -1,1 +1,1 @@
-# CORA is a AI project hub
+# CORA is an AI project hub
